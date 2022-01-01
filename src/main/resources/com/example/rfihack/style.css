@@ -1,0 +1,20 @@
+#minimizeButton {
+	-fx-background-color: rgb(84, 255, 117);
+	-fx-background-radius: 25;
+}
+
+#maximizeButton {
+	-fx-background-color: rgb(255, 152, 55);
+	-fx-background-radius: 20;
+}
+
+#exitButton {
+	-fx-background-color: rgb(255, 55, 55);
+	-fx-background-radius: 20;
+}
+
+#validButton {
+	-fx-background-color:  linear-gradient(to right, #F3904F, #3B4371);
+	-fx-background-radius: 20 10 20 10;
+	-fx-text-fill: white;
+}
