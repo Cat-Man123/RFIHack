@@ -1,2 +1,2 @@
 # RFIHack
-A java app to exploit RFI vulnerability.
+A java app to generate and use webshell
